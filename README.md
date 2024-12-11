@@ -1,2 +1,2 @@
 # PH1050-Assignment-Solutions
-Just trying it out?
+All the assignment solutions for PH1050 offered during Jul-Nov Semester 2024. 
